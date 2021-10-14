@@ -4,7 +4,9 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      hi :)
+      <div className={'box'}>
+
+      </div>
     </div>
   );
 }
